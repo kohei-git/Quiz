@@ -93,3 +93,16 @@ body{
 #result.hidden{
   transform: translate(0,-500px);
 }
+
+@media(max-width:650px){
+  body{
+    width: 380px;
+    padding-top: 80px;
+    margin: 0;
+  }
+
+  .container{
+    width: 380px;
+    margin: 0;
+  }
+}
