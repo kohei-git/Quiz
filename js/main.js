@@ -7,9 +7,9 @@
   const result = document.getElementById('result');
 
   const quizSet = [
-    {q : 'What is A?', c : ['A0','A1','A2']},
-    {q : 'What is B?', c : ['B0','B1','B2']},
-    {q : 'What is C?', c : ['C0','C1','C2']},
+    {q : '問題１?', c : ['A0','A1','A2']},
+    {q : '問題２?', c : ['B0','B1','B2']},
+    {q : '問題３?', c : ['C0','C1','C2']},
   ];
 
   let currentNum = 0;
